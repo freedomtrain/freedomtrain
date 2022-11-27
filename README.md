@@ -3,8 +3,8 @@
 <h3 id="bkmrk-a-community-empowerm"><strong>A Community Empowerment Platform&nbsp;</strong><br /><strong>For the Benefit of All</strong><em>&nbsp;</em></h3>
 <p id="bkmrk-%C2%A0"><br /></p>
 <blockquote id="bkmrk-a-social-movement-th">
-<h4 id="bkmrk-a-social-movement-th-1">A social movement that only moves people is merely a revolt.&nbsp;<br />A movement that changes both people and institutions is a revolution.</h4>
-<h4 id="bkmrk---martin-luther-king-0">- Martin Luther King&nbsp;</h4>
+<h4 id="bkmrk-a-social-movement-th-0">A social movement that only moves people is merely a revolt.&nbsp;<br />A movement that changes both people and institutions is a revolution.</h4>
+<h4 id="bkmrk---martin-luther-king">- Martin Luther King&nbsp;</h4>
 </blockquote>
 <h2 id="bkmrk--0"><strong><a href="https://docs.douglass.earth/uploads/images/gallery/2022-11/EcCgIt7VJ81pJ7mZ-mlk-bw.jpg" target="_blank" rel="noopener"><img class="align-center" src="https://docs.douglass.earth/uploads/images/gallery/2022-11/scaled-1680-/EcCgIt7VJ81pJ7mZ-mlk-bw.jpg" alt="mlk-bw.jpg" /></a></strong></h2>
 <h2 id="bkmrk-freedomtrain"><strong>Freedomtrain </strong></h2>
@@ -13,7 +13,7 @@
 <h3 id="bkmrk-freedomtrain-is-a-mu"><strong>FreedomTrain</strong> is a multifaceted &ldquo;<a href="https://docs.douglass.earth">Douglass</a>&rdquo; initiative that combines the creation and acquisition of digital and real world assets, bottom-up Cooperative governance models, and blockchain technology to provide &ldquo;all&rdquo; with essential goods and services for free or at the lowest possible cost.</h3>
 <p id="bkmrk--1"><a href="https://docs.douglass.earth/uploads/images/gallery/2022-11/0LDhi4gWwe2fM4ul-image-1669452786203.png" target="_blank" rel="noopener"><img src="https://docs.douglass.earth/uploads/images/gallery/2022-11/scaled-1680-/0LDhi4gWwe2fM4ul-image-1669452786203.png" alt="image-1669452786203.png" width="716" height="775" /></a></p>
 <p id="bkmrk--2"></p>
-<h3 id="bkmrk-freedomtrain-framewo"><strong>FreedomTrain Framework</strong></h3>
+<h2 id="bkmrk-freedomtrain-framewo"><strong>FreedomTrain Framework</strong></h2>
 <h3 id="bkmrk-freedomtrain-represe">FreedomTrain represents a new informational-economic infrastructure for regenerative asset creation and sustainable development.</h3>
 <h3 id="bkmrk-freedomtrain-seizes-">FreedomTrain seizes upon the singular social, economic and ecological opportunity of our time; the transition from an extractive &nbsp;economic and governance space to a non-extractive Cooperatively owned economic and governance space aligned with Peace, Love and Purpose.</h3>
 <h3 id="bkmrk-the-freedomtrain-com">The FreedomTrain Community Empowerment Platform is explicitly designed to facilitate the acquisition, creation and funding of civic and public goods that are aligned with an understanding of Mutuality and the practice of Peace, Love and Purpose.</h3>
