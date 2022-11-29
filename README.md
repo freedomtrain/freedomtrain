@@ -27,15 +27,15 @@
 <h3 id="bkmrk-extractive-approache" class="p1"></h3>
 <p id="bkmrk--4"></p>
 
-Community Assets
+<h1 id="Community Assets">Community Assets</h1>
 
-How do we move from a constant need for growth and resource extraction, towards an economybased on democracy, justiceand sustainability?
-With FreedomTrainthe strategy is clear: shifting ownership structures at all levels.
-The FreedomTrainCommunity Empowerment Platform has been developed with an understanding that a more equitable, sustainable, and democratic system must be based on a pluralistic landscape of cooperative ownership and cooperative governance. 
-Global Community Ownership of assets, services, and enterprises are held collectively by FreedomTrain Cooperatives either directly or through representative structures.
-Communityownership of railways,road networks, naturalresources, and bankinghelped build the infrastructure, institutions, and technologiesof the mid-twentieth century consensusand the mixedeconomy of socialdemocracies. Today, community ownershiponce again has a keyrole to play in laying the foundationsfor a transformativeand prosperous economy. 
+<p>How do we move from a constant need for growth and resource extraction, towards an economybased on democracy, justiceand sustainability?</p>
+<p>With FreedomTrainthe strategy is clear: shifting ownership structures at all levels.</p>
+<p>The FreedomTrainCommunity Empowerment Platform has been developed with an understanding that a more equitable, sustainable, and democratic system must be based on a pluralistic landscape of cooperative ownership and cooperative governance. </p>
+<p>Global Community Ownership of assets, services, and enterprises are held collectively by FreedomTrain Cooperatives either directly or through representative structures.</p>
+<p>Communityownership of railways,road networks, naturalresources, and bankinghelped build the infrastructure, institutions, and technologiesof the mid-twentieth century consensusand the mixedeconomy of socialdemocracies. Today, community ownershiponce again has a keyrole to play in laying the foundationsfor a transformativeand prosperous economy. </p>
 
-FreedomTrain Cooperatives will be funded to createand acquire digitaland realworld assets. These assetswill have a wide rangefrom technologyinfrastructure to real worldinfrastructure. Allassets thatare created oracquired willbe ownedwholly or partially by FreedomTrain Cooperatives.
-Asset creation, acquisitionand purchaseswill be fully fundedor subsidized by the FreedomTrain Community Asset Fund. 
-Whenever possible FreedomTrainwill repatriate landto the indigenousand diasporacommunities. 
+<p>FreedomTrain Cooperatives will be funded to createand acquire digitaland realworld assets. These assetswill have a wide rangefrom technologyinfrastructure to real worldinfrastructure. Allassets thatare created oracquired willbe ownedwholly or partially by FreedomTrain Cooperatives.</p>
+<p>Asset creation, acquisitionand purchaseswill be fully fundedor subsidized by the FreedomTrain Community Asset Fund. </p>
+<p>Whenever possible FreedomTrainwill repatriate landto the indigenousand diasporacommunities. </p>
 
